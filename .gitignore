@@ -1,0 +1,20 @@
+# IDE files and user-specific settings
+.idea/
+.gradle/
+local.properties
+*.iml
+.DS_Store
+build/
+captures/
+.cxx/
+
+# Sensitive credentials (NEVER commit these)
+*.keystore
+secrets.properties
+
+# Log files
+*.log
+
+# Generated files
+/app/build/
+/build/
